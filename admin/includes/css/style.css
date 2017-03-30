@@ -1,0 +1,27 @@
+.colorMenu{
+	background-color: #f7a81b;
+}
+.collorTextBtnMenu{
+	color: #1d4781 !important;
+}
+.marginTopMenuDrop{
+	margin-top: 50px;
+}
+.cursor{
+	cursor: pointer;
+}
+.buttonCategoria{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+body{
+	background: url(../imgs/Engrenagem.png) no-repeat;
+}
+
+.buttonCategoria :hover{
+	color: #f7a81b;
+}
+.collorTextBtnMenuHover :hover{
+	color: #f7a81b;
+}
+/*rgb 247 , 168 , 27*/
